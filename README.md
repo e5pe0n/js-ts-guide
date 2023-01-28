@@ -1,6 +1,6 @@
 # JS/TS Guide
 
-Personal knowledge base to write practical code in JavaScript/TypeScript.  
+Personal guide to write practical code in JavaScript/TypeScript.  
 
 # Contents
 
