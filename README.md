@@ -1,1 +1,1 @@
-# ts-guide
+# js-ts-guide
