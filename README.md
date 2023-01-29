@@ -10,7 +10,11 @@ Personal guide to write practical code in JavaScript/TypeScript.
 - [Short-Circuit Evaluation](#short-circuit-evaluation)
 - [Empty Arrays and Empty Object](#empty-arrays-and-empty-objects)
 - [Casts](#casts)
-- [Type Guards](#type-guards)
+- [Type Guards](#type-guards)  
+
+<br>
+
+- [References]()
 # Spread Syntax
 
 ## Arrays
@@ -1214,3 +1218,11 @@ type User = z.infer<typeof zUser>;
 
 ```
 
+
+<br>
+
+# References
+
+- [JavaScript: The Definitive Guide / David Flanagan (O'Reilly)](https://www.oreilly.com/library/view/javascript-the-definitive/9781491952016/)
+- [Programming TypeScript / Boris Cherny (O'Reilly)](https://www.oreilly.com/library/view/programming-typescript/9781492037644/)
+- [Effective TypeScript / Dan Vanderkam (O'Reilly)](https://www.oreilly.com/library/view/effective-typescript/9781492053736/)
