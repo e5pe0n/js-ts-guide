@@ -11,10 +11,13 @@ Personal knowledge note to write practical code in JavaScript/TypeScript.
 - [Empty Arrays and Empty Object](#empty-arrays-and-empty-objects)
 - [Casts](#casts)
 - [Type Guards](#type-guards)  
+- Utils
+  - see `src/utils.ts`
+
 
 <br>
 
-- [References]()
+- [References](#references)
 # Spread Syntax
 
 ## Arrays
